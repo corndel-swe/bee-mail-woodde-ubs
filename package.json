@@ -1,0 +1,16 @@
+{
+  "name": "bee-mail-woodde-ubs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "<p align=\"center\">   <img src=\"logo.png\" width=\"200px\" alt=\"Bee Mail Logo\"> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
